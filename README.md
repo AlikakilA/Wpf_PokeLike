@@ -42,25 +42,22 @@ Microsoft.EntityFrameworkCore.SqlServer
 Utilisé pour la connexion à la base de données SQL Server.
 bash
 Copier le code
-Install-Package Microsoft.EntityFrameworkCore.SqlServer
-Newtonsoft.Json
+# Install-Package Microsoft.EntityFrameworkCore.SqlServerNewtonsoft.Json
 
 Utilisé pour désérialiser les réponses JSON de l'API PokeAPI.
 bash
 Copier le code
-Install-Package Newtonsoft.Json
-CommunityToolkit.Mvvm
+# Install-Package Newtonsoft.JsonCommunityToolkit.Mvvm
 
 Utilisé pour gérer le pattern MVVM (commandes, notifications de propriété, etc.).
 bash
 Copier le code
-Install-Package CommunityToolkit.Mvvm
-Microsoft.Data.SqlClient
+# Install-Package CommunityToolkit.MvvmMicrosoft.Data.SqlClient
 
 Bibliothèque pour la connexion SQL Server.
 bash
 Copier le code
-Install-Package Microsoft.Data.SqlClient
+# Install-Package Microsoft.Data.SqlClient
 
 Instructions d'installation
 1. Cloner le projet
